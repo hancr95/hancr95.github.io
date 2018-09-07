@@ -48,3 +48,12 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.blurb a {
+    display: block;
+    padding: 10px 0;
+}
+
+.post {
+    margin: 20px 0;
+}
